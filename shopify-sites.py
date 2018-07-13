@@ -297,7 +297,7 @@ if(__name__ == "__main__"):
         "the 10"
         ]
 
-    webhook = ""  # Put your webhook link here
+    webhook = "https://discordapp.com/api/webhooks/467428857939755028/mJlKwj_19Wd6WHj5tl1XMLrLq5Sqt2P0eAMv9QeoEJ4yzde3QeJIbDLcXRzFBwplL8AX"  # Put your webhook link here
 
     delay = 5  # Lots of sites + few proxies = longer delay to avoid bans
 
