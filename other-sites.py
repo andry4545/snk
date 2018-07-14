@@ -140,7 +140,7 @@ def send_embed(product):
     Sends a discord alert based on info provided.
     '''
 
-    url = 'https://discordapp.com/api/webhooks/467428857939755028/mJlKwj_19Wd6WHj5tl1XMLrLq5Sqt2P0eAMv9QeoEJ4yzde3QeJIbDLcXRzFBwplL8AX'
+    url = ' '
     
     embed = Webhook(url, color=123123)
 
